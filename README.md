@@ -23,7 +23,7 @@ My website offers a captivating introduction to our business, highlighting the k
 
 ## Screenshots
 
-![Screenshot 1](/img/honePage.png)
+![Screenshot 1](/public/images/homePage.png)
 *Screenshot 1: Overview of the landing page.*
 
 
