@@ -23,7 +23,7 @@ My website offers a captivating introduction to our business, highlighting the k
 
 ## Screenshots
 
-![Screenshot 1](/images/homePageMobApp.png)
+![Screenshot 1](/img/homePage.png)
 *Screenshot 1: Overview of the landing page.*
 
 
@@ -58,4 +58,4 @@ I'd love to hear your feedback! If you have any questions, suggestions, or conce
 
 ---
 
-[View Live Demo](https://example-convert-figma-html-4.vercel.app/)
+[View Live Demo](https://example-convert-figma-html-5.vercel.app/)
